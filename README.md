@@ -247,17 +247,21 @@ Mis principales áreas de interés incluyen:
 - Introducción a Deep Learning aplicado a datos reales
 - Desarrollo de soluciones analíticas con criterio metodológico y enfoque práctico
 
+- 💼 **LinkedIn**: [vanesamizrahi](https://www.linkedin.com/in/vanesamizrahi)  
+
 ---
 
 ## 🎓 Propósito Educativo
 
 Este repositorio forma parte del trabajo desarrollado en el marco del curso **Data Science III: NLP & Deep Learning aplicado a Ciencia de Datos**, donde se aplican técnicas de NLP, modelos clásicos y redes neuronales para el análisis de sentimiento sobre texto, el cual forma parte de mi especialización a través de la Diplomatura en Data Science [CoderHouse](https://www.coderhouse.com/ar/diplomaturas/data/?pipe_source=google&pipe_medium=cpc&pipe_campaign=1&gad_source=1&gad_campaignid=13952864596&gbraid=0AAAAACoxfTL7S4LjLGDCtBrigIZUvaOtI&gclid=CjwKCAiAxc_JBhA2EiwAFVs7XJlquLs6YOrHV_5FBSUgw11RG-8BGH6YVHXJN2QfehgVqOBGVghiqxoCOQsQAvD_BwE).
 
+---
 
+## 🔗 Recursos del proyecto
 
 - 🌐 **GitHub**: [@vanerm](https://github.com/vanerm)  
-- 💼 **LinkedIn**: [vanesamizrahi](https://www.linkedin.com/in/vanesamizrahi)  
 - 📓 **Notebook en Google Colab**: [Ver notebook](https://colab.research.google.com/drive/1G_0RDVRkqttwNkXLlOUIeJdVHQyq25_w?usp=sharing)
+- 📦 **Dataset procesado (Parquet)**: [Descargar imdb_processed.parquet](https://drive.google.com/file/d/16jJ_T_MRNpHvDd2LjpP4yqQsy7fkNyyV/view?usp=drive_link)
 
 ---
 
