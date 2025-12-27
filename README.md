@@ -257,14 +257,6 @@ Este repositorio forma parte del trabajo desarrollado en el marco del curso **Da
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de carácter educativo y académico. El código y análisis están disponibles para consulta y aprendizaje.
-
-El dataset utilizado es proporcionado por Kaggle y está sujeto a sus propios términos de uso.
-
----
-
 ## 🙏 Agradecimientos
 
 - **Kaggle** por proporcionar el dataset de reseñas de IMDb
