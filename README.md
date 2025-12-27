@@ -1,5 +1,7 @@
 # 🎬 IMDb Sentiment Analysis
 
+![IMDB](https://github.com/user-attachments/assets/7acda1ec-2c05-46ff-bc53-ba30fb936609)
+
 Análisis de sentimiento de reseñas de películas del dataset **IMDb**, utilizando técnicas de **Procesamiento de Lenguaje Natural (NLP)**, **Machine Learning** y **Deep Learning**, con un enfoque comparativo sobre distintas representaciones del texto.
 
 ---
