@@ -247,7 +247,7 @@ Mis principales áreas de interés incluyen:
 - Introducción a Deep Learning aplicado a datos reales
 - Desarrollo de soluciones analíticas con criterio metodológico y enfoque práctico
 
-- 💼 **LinkedIn**: [vanesamizrahi](https://www.linkedin.com/in/vanesamizrahi)  
+💼 **LinkedIn**: [vanesamizrahi](https://www.linkedin.com/in/vanesamizrahi)  
 
 ---
 
