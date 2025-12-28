@@ -265,6 +265,20 @@ Este repositorio forma parte del trabajo desarrollado en el marco del curso **Da
 
 ---
 
+## 📊 Publicación en Kaggle
+
+El proyecto fue publicado y ejecutado en Kaggle para garantizar reproducibilidad, facilitar el acceso a los recursos y permitir la ejecución directa en un entorno estándar de Data Science.
+
+- 📓 **Notebook en Kaggle**  
+  Análisis completo de sentimiento sobre reseñas de IMDb, incluyendo EDA, preprocessing NLP, embeddings, modelos de Machine Learning y Deep Learning, y evaluación comparativa.  
+  👉 https://www.kaggle.com/code/vanesamizrahi/imdb-sentiment-analysis-nlp-ml-deep-learning
+
+- 📦 **Dataset procesado en Kaggle (Parquet)**  
+  Versión preprocesada del dataset IMDb (50K reviews), optimizada para tareas de NLP, Machine Learning y Deep Learning. Incluye limpieza de texto, tokenización y lematización.  
+  👉 https://www.kaggle.com/datasets/vanesamizrahi/imdb-processed-dataset-nlp
+
+---
+
 ## 🙏 Agradecimientos
 
 - **Kaggle** por proporcionar el dataset de reseñas de IMDb
