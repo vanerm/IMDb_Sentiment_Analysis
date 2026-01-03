@@ -1,6 +1,6 @@
 # 🎬 IMDb Sentiment Analysis
 
-![IMDB](https://github.com/user-attachments/assets/7acda1ec-2c05-46ff-bc53-ba30fb936609)
+![IMDB](assets/imbd.png)
 
 Análisis de sentimiento de reseñas de películas del dataset **IMDb**, utilizando técnicas de **Procesamiento de Lenguaje Natural (NLP)**, **Machine Learning** y **Deep Learning**, con un enfoque comparativo sobre distintas representaciones del texto.
 
@@ -129,6 +129,8 @@ Los modelos fueron evaluados utilizando:
 ```
 IMDb_Sentiment_Analysis/
 │
+├── assets/                                        # Imágenes y recursos del proyecto
+│   └── imbd.png                               # Banner principal del proyecto
 ├── IMDb_Sentiment_Analysis_VanesaMizrahi.ipynb  # Notebook principal con el análisis completo
 ├── imdb_sentiment_analysis_vanesamizrahi.py      # Script Python exportado del notebook
 ├── README.md                                      # Este archivo
